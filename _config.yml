@@ -18,13 +18,11 @@ logo:             logo.png
 disqus_shortname:
 
 owner:
-  name:           whitepaper
+  name:           wujl
   avatar:         ""
   email:          ""
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
   github:
-  stackexchange:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
