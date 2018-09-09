@@ -1,36 +1,6 @@
-﻿name: Smile
-description: >
-    wujl
+permalink: /:title
 
-about: >
-    Tomorrow is another day
-
-master_repo: false
-url: "http://Wu-30MKI.github.io"
-markdown: kramdown
-highlighter: rouge
-
-
-plugins: ['jekyll-paginate', 'jekyll-gist']
-
-paginate: 3
-
-logo:             logo.png
-intensedebate_comments: true
-
-owner:
-  name:           wujl
-  avatar:         ""
-  email:          ""
-  # Social networking links used in footer. Update and remove as you like.
-  github:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-encoding:  utf-8
+title: BeiYuu.com
+url: http://beiyuu.com
+feed: /atom.xml
+author_info: <a href="http://beiyuu.com/">BeiYuu</a>
