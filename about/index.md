@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: page
 title: About
 ---
 
-Nothing yet :(
+wujl
